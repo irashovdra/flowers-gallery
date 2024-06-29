@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel ./src/index.html --no-cache",
     "predeploy": "npm run build",
-    "build": "parcel build ./src/index.html --no-cache --public-url /parcel-hw/",
+    "build": "parcel build ./src/index.html --no-cache --public-url /flowers-gallery/",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
