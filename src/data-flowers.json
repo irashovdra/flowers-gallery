@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Peony",
+    "img": "https://katehillflowers.com.au/cdn/shop/articles/Pink-Peonies.jpg?v=1619916009&width=3000",
+    "description": "Peonies are popular perennials that have become a beloved bloom across the globe. Their origin began in Chinese gardens around 1,000 B.C. when people started harvesting peonies to utilize in cooking and medicines. It wasn't until the Tang Dynasty that peonies began to be adored and favored for their elegance and beauty."
+  },
+  {
+    "name": "Hydrangea",
+    "img": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1693358943/vendor/2526/catalog/product/2/0/20170903061009_file_59ac4581cfb28.jpg",
+    "description": "They produce beautiful round clusters and flat frilly layers of blooms in various colors, including white, pink, lavender, green, and blue. One of the cultivation qualities of hydrangeas is their ability to thrive in various soil types. Hydrangeas have a rich history in Japanese culture, rooted in a poignant legend."
+  },
+  {
+    "name": "Tulips",
+    "img": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1708615184/vendor/9099/catalog/product/2/0/20230421051545_file_64421c01a6f9c_64421c130785b.jpeg",
+    "description": "Tulips are erect flowers with long, broad, parallel-veined leaves and a cup-shaped, single or double flower at the tip of the stem. Colors of the flowers can range anywhere from red to yellow to white. Some tulips are varicolored as a result of a viral disease carried and transferred to the plants by aphids."
+  },
+  {
+    "name": "Lilies",
+    "img": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1712629814/vendor/7040/catalog/product/2/0/20210611124209_file_60c2b1611f349_60c2b1d27c0d8..jpg",
+    "description": "Long, narrow leaves cover a single stem. At the top, they divide into three to seven stems, each with a single bud. Open flowers are six-pointed, white and trumpet-shaped. The fragrant blooms can last seven days to three weeks."
+  },
+  {
+    "name": "Roses",
+    "img": "https://lexandroses.com/cdn/shop/products/pics_84_4_800x.png?v=1677633154",
+    "description": "Their stems are usually prickly and their glossy, green leaves have toothed edges. Rose flowers vary in size and shape. They burst with colours ranging from pastel pink, peach, and cream, to vibrant yellow, orange, and red. Many roses are fragrant, and some produce berry-like fruits called hips."
+  },
+  {
+    "name": "Carnations",
+    "img": "https://media.bloom.gallery/wp-content/uploads/2023/01/28192930/dsc00807-scaled.webp",
+    "description": "The appearance of carnations is unforgettable and unlike many other common blooms. Some say that the petals of carnations look as though they were cut with pinking shears, which has led to their nickname clove pink. The layered petals of carnations are ruffled and full, making them stand-out, eye-catching flowers."
+  },
+  {
+    "name": "Orchids",
+    "img": "https://media.bloom.gallery/wp-content/uploads/2023/02/08130019/new-orchids-3-scaled.webp",
+    "description": "The orchid flower has the feminine and masculine organ of reproduction fusing in only one body called a column or gynostemium. The flower has an irregular form. It has three sepals and three petals. The medium petal is modified and is called labellum or lip."
+  },
+  {
+    "name": "Gypsophilia",
+    "img": "https://desertdreams.co.uk/cdn/shop/products/dried_flower_bridesmaid_bouquet.jpg?v=1709578133",
+    "description": "Gypsophila plants typically grow between 60-92 cm in height and feature blue-green, lance-shaped leaves. They are most notably recognized by their slender, intricately branched stems. Topping each of these branches are numerous clusters of small, delicate florets, whose bloom size may vary among cultivars."
+  }
+]
