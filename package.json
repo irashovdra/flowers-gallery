@@ -1,0 +1,23 @@
+{
+  "homepage": "https://irashovdra.github.io/flowers-gallery/",
+  "name": "flowers-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./src/index.html --no-cache",
+    "predeploy": "npm run build",
+    "build": "parcel build ./src/index.html --no-cache --public-url /parcel-hw/",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^2.0.1"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
